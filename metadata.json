@@ -1,0 +1,8 @@
+{
+  "name": "EcoSanctuary IoT - Smart Waste Management & Sanitization",
+  "description": "AI + IoT Smart Waste Management and Sanitization Platform for Smart India Hackathon 2026 (SIH26212). Features real-time sensor telemetry, AI waste segregation, automated alerts, and route optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
